@@ -1,0 +1,56 @@
+[
+    {
+        "Jg": "1E",
+        "P": "A",
+        "Total_Students": 29,
+        "Female_Students": 16
+    },
+    {
+        "Jg": "1E",
+        "P": "B",
+        "Total_Students": 30,
+        "Female_Students": 18
+    },
+    {
+        "Jg": "2E",
+        "P": "A",
+        "Total_Students": 27,
+        "Female_Students": 12
+    },
+    {
+        "Jg": "2E",
+        "P": "B",
+        "Total_Students": 27,
+        "Female_Students": 12
+    },
+    {
+        "Jg": "03",
+        "P": "A",
+        "Total_Students": 27,
+        "Female_Students": 15
+    },
+    {
+        "Jg": "03",
+        "P": "B",
+        "Total_Students": 25,
+        "Female_Students": 11
+    },
+    {
+        "Jg": "04",
+        "P": "A",
+        "Total_Students": 19,
+        "Female_Students": 9
+    },
+    {
+        "Jg": "04",
+        "P": "B",
+        "Total_Students": 19,
+        "Female_Students": 10
+    },
+    {
+        "Jg": "04",
+        "P": "C",
+        "Total_Students": 18,
+        "Female_Students": 9
+    }
+]

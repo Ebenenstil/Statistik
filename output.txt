@@ -1,0 +1,127 @@
+Klasse RK (Jg = 1E)
+- Gesamtschülerzahl: 46
+- Weiblich: 7
+
+Klasse RK (Jg = 1E)
+- Gesamtschülerzahl: 13
+- Weiblich: 1
+
+Klasse RK (Jg = 2E)
+- Gesamtschülerzahl: 19
+- Weiblich: 4
+
+Klasse RK (Jg = 2E)
+- Gesamtschülerzahl: 2
+- Weiblich: 1
+
+Klasse RK (Jg = 2E)
+- Gesamtschülerzahl: 18
+- Weiblich: 4
+
+Klasse RK (Jg = 2E)
+- Gesamtschülerzahl: 14
+- Weiblich: 6
+
+Klasse RK (Jg = 2E)
+- Gesamtschülerzahl: 1
+- Weiblich: 1
+
+Klasse RK (Jg = 03)
+- Gesamtschülerzahl: 27
+- Weiblich: 3
+
+Klasse RK (Jg = 03)
+- Gesamtschülerzahl: 19
+- Weiblich: 6
+
+Klasse RK (Jg = 03)
+- Gesamtschülerzahl: 6
+- Weiblich: 0
+
+Klasse RK (Jg = 04)
+- Gesamtschülerzahl: 19
+- Weiblich: 4
+
+Klasse RK (Jg = 04)
+- Gesamtschülerzahl: 33
+- Weiblich: 7
+
+Klasse RK (Jg = 04)
+- Gesamtschülerzahl: 4
+- Weiblich: 0
+
+Klasse 4 (Jg = 8)
+- Gesamtschülerzahl: 8
+- Weiblich: 4
+
+Klasse 2 (Jg = 4)
+- Gesamtschülerzahl: 4
+- Weiblich: 2
+
+Klasse 9 (Jg = 9)
+- Gesamtschülerzahl: 9
+- Weiblich: 9
+
+Klasse 1 (Jg = 1)
+- Gesamtschülerzahl: 8
+- Weiblich: 8
+
+Klasse 2 (Jg = 6)
+- Gesamtschülerzahl: 6
+- Weiblich: 2
+
+Klasse 3 (Jg = 6)
+- Gesamtschülerzahl: 6
+- Weiblich: 3
+
+Klasse 0 (Jg = 1)
+- Gesamtschülerzahl: 1
+- Weiblich: 0
+
+Klasse 2 (Jg = 3)
+- Gesamtschülerzahl: 3
+- Weiblich: 2
+
+Klasse 5 (Jg = 6)
+- Gesamtschülerzahl: 6
+- Weiblich: 5
+
+Klasse 2 (Jg = 2)
+- Gesamtschülerzahl: 2
+- Weiblich: 2
+
+Klasse 5 (Jg = 5)
+- Gesamtschülerzahl: 5
+- Weiblich: 5
+
+Klasse 6 (Jg = 6)
+- Gesamtschülerzahl: 6
+- Weiblich: 6
+
+Klasse 0 (Jg = 4)
+- Gesamtschülerzahl: 4
+- Weiblich: 0
+
+Klasse 5 (Jg = 9)
+- Gesamtschülerzahl: 9
+- Weiblich: 5
+
+Klasse 1 (Jg = 2)
+- Gesamtschülerzahl: 2
+- Weiblich: 1
+
+Klasse 6 (Jg = 10)
+- Gesamtschülerzahl: 10
+- Weiblich: 6
+
+Klasse 3 (Jg = 5)
+- Gesamtschülerzahl: 10
+- Weiblich: 6
+
+Klasse 7 (Jg = 8)
+- Gesamtschülerzahl: 7
+- Weiblich: 7
+
+Klasse 74 (Jg = 108)
+- Gesamtschülerzahl: 107
+- Weiblich: 74

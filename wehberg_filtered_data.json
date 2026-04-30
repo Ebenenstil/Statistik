@@ -1,0 +1,122 @@
+[
+    {
+        "Adr": "A",
+        "Jg": "1E",
+        "P": "A",
+        "TKM": "01",
+        "Total_Students": 22,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "1E",
+        "P": "A",
+        "TKM": "02",
+        "Total_Students": 7,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "1E",
+        "P": "B",
+        "TKM": "01",
+        "Total_Students": 17,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "1E",
+        "P": "B",
+        "TKM": "02",
+        "Total_Students": 2,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "1E",
+        "P": "B",
+        "TKM": "03",
+        "Total_Students": 11,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "2E",
+        "P": "A",
+        "TKM": "01",
+        "Total_Students": 19,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "2E",
+        "P": "A",
+        "TKM": "02",
+        "Total_Students": 1,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "2E",
+        "P": "A",
+        "TKM": "03",
+        "Total_Students": 1,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "2E",
+        "P": "A",
+        "TKM": "04",
+        "Total_Students": 5,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "2E",
+        "P": "A",
+        "TKM": "05",
+        "Total_Students": 1,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "2E",
+        "P": "B",
+        "TKM": "01",
+        "Total_Students": 12,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "2E",
+        "P": "B",
+        "TKM": "02",
+        "Total_Students": 1,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "2E",
+        "P": "B",
+        "TKM": "03",
+        "Total_Students": 2,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "2E",
+        "P": "B",
+        "TKM": "04",
+        "Total_Students": 11,
+        "Female_Students": null
+    },
+    {
+        "Adr": "A",
+        "Jg": "2E",
+        "P": "B",
+        "TKM": "05",
+        "Total_Students": 1,
+        "Female_Students": null
+    }
+]

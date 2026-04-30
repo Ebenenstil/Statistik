@@ -1,0 +1,89 @@
+import pytesseract
+from pdf2image import convert_from_path
+from PIL import Image
+import pdfplumber
+import pandas as pd
+import json
+
+# Setze den korrekten Pfad zu Tesseract
+pytesseract.pytesseract.tesseract_cmd = '/opt/homebrew/bin/tesseract'
+
+def ocr_image_to_text(image):
+    return pytesseract.image_to_string(image)
+
+def extract_tables_from_pdf(pdf_path, output_csv_path=None, output_xls_path=None, output_json_path=None):
+    # Konvertiere PDF-Seiten zu Bildern
+    images = convert_from_path(pdf_path)
+    all_text = []
+
+    for image in images:
+        text = ocr_image_to_text(image)
+        all_text.append(text)
+
+    all_tables = []
+    for text in all_text:
+        lines = text.split('\n')
+        table = [line.split() for line in lines if line.strip() != '']
+        all_tables.append(table)
+
+    all_tables = [table for table in all_tables if table]
+
+    if not all_tables:
+        print("Keine Tabellen in der PDF-Datei gefunden.")
+        return
+
+    dataframes = []
+    for table in all_tables:
+        max_columns = max(len(row) for row in table)
+        consistent_table = []
+        for row in table:
+            if len(row) < max_columns:
+                row.extend([''] * (max_columns - len(row)))
+            consistent_table.append(row)
+
+        if len(consistent_table) > 1:
+            df = pd.DataFrame(consistent_table[1:], columns=consistent_table[0])
+            dataframes.append(df)
+
+    if not dataframes:
+        print("Keine validen Tabellen gefunden.")
+        return
+
+    # Überprüfe die Spaltennamen auf Eindeutigkeit und benenne sie gegebenenfalls um
+    def make_columns_unique(df):
+        cols = pd.Series(df.columns)
+        for dup in cols[cols.duplicated()].unique(): 
+            cols[cols[cols == dup].index.values.tolist()] = [dup + '_' + str(i) if i != 0 else dup for i in range(sum(cols == dup))]
+        df.columns = cols
+
+    for df in dataframes:
+        make_columns_unique(df)
+
+    # Speichere die DataFrames in eine CSV-Datei
+    if output_csv_path:
+        combined_df = pd.concat(dataframes, ignore_index=True)
+        combined_df.to_csv(output_csv_path, index=False)
+        print(f"CSV-Datei erfolgreich unter {output_csv_path} gespeichert.")
+
+    # Speichere die DataFrames in eine XLS-Datei
+    if output_xls_path:
+        with pd.ExcelWriter(output_xls_path) as writer:
+            for i, df in enumerate(dataframes):
+                df.to_excel(writer, sheet_name=f'Table_{i+1}', index=False)
+        print(f"XLS-Datei erfolgreich unter {output_xls_path} gespeichert.")
+
+    # Speichere die DataFrames in eine JSON-Datei
+    if output_json_path:
+        json_data = {f'Table_{i+1}': df.to_dict(orient='records') for i, df in enumerate(dataframes)}
+        with open(output_json_path, 'w', encoding='utf-8') as json_file:
+            json.dump(json_data, json_file, ensure_ascii=False, indent=4)
+        print(f"JSON-Datei erfolgreich unter {output_json_path} gespeichert.")
+
+# Beispielaufruf des Skripts
+pdf_path = '/Users/davidknospe/Documents/Statistik/Test_Datei.pdf'
+output_csv_path = '/Users/davidknospe/Documents/Statistik/output.csv'
+output_xls_path = '/Users/davidknospe/Documents/Statistik/output.xlsx'
+output_json_path = '/Users/davidknospe/Documents/Statistik/output.json'
+
+
+extract_tables_from_pdf(pdf_path, output_csv_path, output_xls_path, output_json_path)

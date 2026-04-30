@@ -1,0 +1,428 @@
+Tinsberg.pdf erfolgreich verarbeitet.
+gsg.pdf erfolgreich verarbeitet.
+Parkstraße.pdf erfolgreich verarbeitet.
+Wefelshohl.pdf erfolgreich verarbeitet.
+Adolf Reichwein.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['1E', 'B', None, '1'], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['1E', 'B', None, '11'], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['1E', 'B', None, '2'], Fehler: 'NoneType' object has no attribute 'isdigit'
+Erwin Welke.pdf erfolgreich verarbeitet.
+Adolf Kolping.pdf erfolgreich verarbeitet.
+Ida.pdf erfolgreich verarbeitet.
+Otfried Preußler.pdf erfolgreich verarbeitet.
+Westschule.pdf erfolgreich verarbeitet.
+Loesenbach.pdf erfolgreich verarbeitet.
+Bierbaum.pdf erfolgreich verarbeitet.
+Wehberg.pdf erfolgreich verarbeitet.
+BGL.pdf erfolgreich verarbeitet.
+Knapper.pdf erfolgreich verarbeitet.
+THR.pdf erfolgreich verarbeitet.
+Zepp.pdf erfolgreich verarbeitet.
+Tinsberg.pdf erfolgreich verarbeitet.
+KLD323_ST_2024-2.pdf erfolgreich verarbeitet.
+gsg.pdf erfolgreich verarbeitet.
+Parkstraße.pdf erfolgreich verarbeitet.
+Wefelshohl.pdf erfolgreich verarbeitet.
+Adolf Reichwein.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['1E', 'B', None, '1'], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['1E', 'B', None, '11'], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['1E', 'B', None, '2'], Fehler: 'NoneType' object has no attribute 'isdigit'
+Erwin Welke.pdf erfolgreich verarbeitet.
+Adolf Kolping.pdf erfolgreich verarbeitet.
+Ida.pdf erfolgreich verarbeitet.
+Otfried Preußler.pdf erfolgreich verarbeitet.
+Westschule.pdf erfolgreich verarbeitet.
+Loesenbach.pdf erfolgreich verarbeitet.
+Bierbaum.pdf erfolgreich verarbeitet.
+Wehberg.pdf erfolgreich verarbeitet.
+BGL.pdf erfolgreich verarbeitet.
+Knapper.pdf erfolgreich verarbeitet.
+THR.pdf erfolgreich verarbeitet.
+Zepp.pdf erfolgreich verarbeitet.
+Tinsberg.pdf erfolgreich verarbeitet.
+KLD323_ST_2024-2.pdf erfolgreich verarbeitet.
+gsg.pdf erfolgreich verarbeitet.
+Parkstraße.pdf erfolgreich verarbeitet.
+Wefelshohl.pdf erfolgreich verarbeitet.
+Adolf Reichwein.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['1E', 'B', None, '1'], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['1E', 'B', None, '11'], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['1E', 'B', None, '2'], Fehler: 'NoneType' object has no attribute 'isdigit'
+Erwin Welke.pdf erfolgreich verarbeitet.
+Adolf Kolping.pdf erfolgreich verarbeitet.
+Ida.pdf erfolgreich verarbeitet.
+Otfried Preußler.pdf erfolgreich verarbeitet.
+Westschule.pdf erfolgreich verarbeitet.
+Loesenbach.pdf erfolgreich verarbeitet.
+Bierbaum.pdf erfolgreich verarbeitet.
+Wehberg.pdf erfolgreich verarbeitet.
+BGL.pdf erfolgreich verarbeitet.
+Knapper.pdf erfolgreich verarbeitet.
+THR.pdf erfolgreich verarbeitet.
+Zepp.pdf erfolgreich verarbeitet.
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 60] Operation timed out
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['2E', 'B', '1', None], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['0', '0', None, None], Fehler: 'NoneType' object has no attribute 'isdigit'
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+Westschule_UVD223_ST_2025.pdf erfolgreich verarbeitet.
+Westschule_SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Westschule_KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_2025.pdf erfolgreich verarbeitet.
+UVD223_2025.pdf erfolgreich verarbeitet.
+LID123_2025.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD012_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD012_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD012_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD012_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD012_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD012_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von Westschule_UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/Westschule_UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von Westschule_SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/Westschule_SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von Westschule_KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/Westschule_KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_2025_matrix_output.json'
+Fehler beim Verarbeiten von LID123_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/LID123_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD012_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD012_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von UVD223_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/UVD223_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von SCD011_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/SCD011_ST_2025_matrix_output.json'
+Fehler beim Verarbeiten von KLD323_ST_2025.pdf: [Errno 2] No such file or directory: '/Users/davidknospe/Documents/SCHULEN/output/KLD323_ST_2025_matrix_output.json'
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['2E', 'B', '1', None], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['0', '0', None, None], Fehler: 'NoneType' object has no attribute 'isdigit'
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+Westschule_UVD223_ST_2025.pdf erfolgreich verarbeitet.
+Westschule_SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Westschule_KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_2025.pdf erfolgreich verarbeitet.
+UVD223_2025.pdf erfolgreich verarbeitet.
+LID123_2025.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+Tinsberg.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Adolf Reichein.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Hauptschule.pdf erfolgreich verarbeitet.
+Parkstraße.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+Wefelshohl.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Erwin Welke.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Adolf Kolping.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+BGL.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['2E', 'B', '1', None], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['0', '0', None, None], Fehler: 'NoneType' object has no attribute 'isdigit'
+OTP.pdf erfolgreich verarbeitet.
+Westschule_UVD223_ST_2025.pdf erfolgreich verarbeitet.
+Westschule_SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Westschule_KLD323_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Pestalozzi.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Bierbaum.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+wehberg.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Loesenbach.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+Ida.pdf erfolgreich verarbeitet.
+UVD223_2025.pdf erfolgreich verarbeitet.
+Knapper.pdf erfolgreich verarbeitet.
+LID123_2025.pdf erfolgreich verarbeitet.
+SCD012_ST_2025.pdf erfolgreich verarbeitet.
+UVD223_ST_2025.pdf erfolgreich verarbeitet.
+SCD011_ST_2025.pdf erfolgreich verarbeitet.
+zepp.pdf erfolgreich verarbeitet.
+Tinsberg.pdf erfolgreich verarbeitet.
+Adolf Reichein.pdf erfolgreich verarbeitet.
+Hauptschule.pdf erfolgreich verarbeitet.
+Parkstraße.pdf erfolgreich verarbeitet.
+Wefelshohl.pdf erfolgreich verarbeitet.
+Erwin Welke.pdf erfolgreich verarbeitet.
+Adolf Kolping.pdf erfolgreich verarbeitet.
+BGL.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['2E', 'B', '1', None], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['0', '0', None, None], Fehler: 'NoneType' object has no attribute 'isdigit'
+OTP.pdf erfolgreich verarbeitet.
+Westschule_KLD323_ST_2025.pdf erfolgreich verarbeitet.
+Pestalozzi.pdf erfolgreich verarbeitet.
+Bierbaum.pdf erfolgreich verarbeitet.
+wehberg.pdf erfolgreich verarbeitet.
+Loesenbach.pdf erfolgreich verarbeitet.
+Ida.pdf erfolgreich verarbeitet.
+Knapper.pdf erfolgreich verarbeitet.
+zepp.pdf erfolgreich verarbeitet.
+Tinsberg.pdf erfolgreich verarbeitet.
+Adolf Reichein.pdf erfolgreich verarbeitet.
+Hauptschule.pdf erfolgreich verarbeitet.
+Parkstraße.pdf erfolgreich verarbeitet.
+Wefelshohl.pdf erfolgreich verarbeitet.
+Erwin Welke.pdf erfolgreich verarbeitet.
+Adolf Kolping.pdf erfolgreich verarbeitet.
+BGL.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['2E', 'B', '1', None], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['0', '0', None, None], Fehler: 'NoneType' object has no attribute 'isdigit'
+OTP.pdf erfolgreich verarbeitet.
+Westschule_KLD323_ST_2025.pdf erfolgreich verarbeitet.
+Pestalozzi.pdf erfolgreich verarbeitet.
+Bierbaum.pdf erfolgreich verarbeitet.
+wehberg.pdf erfolgreich verarbeitet.
+Loesenbach.pdf erfolgreich verarbeitet.
+Ida.pdf erfolgreich verarbeitet.
+Knapper.pdf erfolgreich verarbeitet.
+zepp.pdf erfolgreich verarbeitet.
+Tinsberg.pdf erfolgreich verarbeitet.
+Adolf Reichein.pdf erfolgreich verarbeitet.
+Hauptschule.pdf erfolgreich verarbeitet.
+Parkstraße.pdf erfolgreich verarbeitet.
+Wefelshohl.pdf erfolgreich verarbeitet.
+Erwin Welke.pdf erfolgreich verarbeitet.
+Adolf Kolping.pdf erfolgreich verarbeitet.
+BGL.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['2E', 'B', '1', None], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['0', '0', None, None], Fehler: 'NoneType' object has no attribute 'isdigit'
+OTP.pdf erfolgreich verarbeitet.
+Westschule_KLD323_ST_2025.pdf erfolgreich verarbeitet.
+Pestalozzi.pdf erfolgreich verarbeitet.
+Bierbaum.pdf erfolgreich verarbeitet.
+wehberg.pdf erfolgreich verarbeitet.
+Loesenbach.pdf erfolgreich verarbeitet.
+Ida.pdf erfolgreich verarbeitet.
+Knapper.pdf erfolgreich verarbeitet.
+zepp.pdf erfolgreich verarbeitet.
+Tinsberg.pdf erfolgreich verarbeitet.
+Adolf Reichein.pdf erfolgreich verarbeitet.
+Hauptschule.pdf erfolgreich verarbeitet.
+Parkstraße.pdf erfolgreich verarbeitet.
+Wefelshohl.pdf erfolgreich verarbeitet.
+Erwin Welke.pdf erfolgreich verarbeitet.
+Adolf Kolping.pdf erfolgreich verarbeitet.
+BGL.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['2E', 'B', '1', None], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['0', '0', None, None], Fehler: 'NoneType' object has no attribute 'isdigit'
+OTP.pdf erfolgreich verarbeitet.
+Westschule_KLD323_ST_2025.pdf erfolgreich verarbeitet.
+Pestalozzi.pdf erfolgreich verarbeitet.
+Bierbaum.pdf erfolgreich verarbeitet.
+wehberg.pdf erfolgreich verarbeitet.
+Loesenbach.pdf erfolgreich verarbeitet.
+Ida.pdf erfolgreich verarbeitet.
+Knapper.pdf erfolgreich verarbeitet.
+THR.pdf erfolgreich verarbeitet.
+zepp.pdf erfolgreich verarbeitet.
+Tinsberg.pdf erfolgreich verarbeitet.
+Adolf Reichein.pdf erfolgreich verarbeitet.
+Hauptschule.pdf erfolgreich verarbeitet.
+KLD323_ST_2025.pdf erfolgreich verarbeitet.
+Parkstraße.pdf erfolgreich verarbeitet.
+Wefelshohl.pdf erfolgreich verarbeitet.
+Erwin Welke.pdf erfolgreich verarbeitet.
+Adolf Kolping.pdf erfolgreich verarbeitet.
+BGL.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['2E', 'B', '1', None], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['0', '0', None, None], Fehler: 'NoneType' object has no attribute 'isdigit'
+OTP.pdf erfolgreich verarbeitet.
+Westschule_KLD323_ST_2025.pdf erfolgreich verarbeitet.
+Pestalozzi.pdf erfolgreich verarbeitet.
+Bierbaum.pdf erfolgreich verarbeitet.
+wehberg.pdf erfolgreich verarbeitet.
+Loesenbach.pdf erfolgreich verarbeitet.
+Ida.pdf erfolgreich verarbeitet.
+Knapper.pdf erfolgreich verarbeitet.
+THR.pdf erfolgreich verarbeitet.
+zepp.pdf erfolgreich verarbeitet.
+Tinsberg.pdf erfolgreich verarbeitet.
+Adolf Reichein.pdf erfolgreich verarbeitet.
+Hauptschule.pdf erfolgreich verarbeitet.
+RSR.pdf erfolgreich verarbeitet.
+Parkstraße.pdf erfolgreich verarbeitet.
+Wefelshohl.pdf erfolgreich verarbeitet.
+Erwin Welke.pdf erfolgreich verarbeitet.
+Adolf Kolping.pdf erfolgreich verarbeitet.
+BGL.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['2E', 'B', '1', None], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['0', '0', None, None], Fehler: 'NoneType' object has no attribute 'isdigit'
+OTP.pdf erfolgreich verarbeitet.
+Westschule_KLD323_ST_2025.pdf erfolgreich verarbeitet.
+Pestalozzi.pdf erfolgreich verarbeitet.
+Bierbaum.pdf erfolgreich verarbeitet.
+wehberg.pdf erfolgreich verarbeitet.
+Loesenbach.pdf erfolgreich verarbeitet.
+Ida.pdf erfolgreich verarbeitet.
+Knapper.pdf erfolgreich verarbeitet.
+THR.pdf erfolgreich verarbeitet.
+zepp.pdf erfolgreich verarbeitet.
+Tinsberg.pdf erfolgreich verarbeitet.
+Adolf Reichein.pdf erfolgreich verarbeitet.
+Hauptschule.pdf erfolgreich verarbeitet.
+RSR.pdf erfolgreich verarbeitet.
+Parkstraße.pdf erfolgreich verarbeitet.
+Wefelshohl.pdf erfolgreich verarbeitet.
+Erwin Welke.pdf erfolgreich verarbeitet.
+Adolf Kolping.pdf erfolgreich verarbeitet.
+BGL.pdf erfolgreich verarbeitet.
+Fehler bei der Verarbeitung von Zeile: ['2E', 'B', '1', None], Fehler: 'NoneType' object has no attribute 'isdigit'
+Fehler bei der Verarbeitung von Zeile: ['0', '0', None, None], Fehler: 'NoneType' object has no attribute 'isdigit'
+OTP.pdf erfolgreich verarbeitet.
+Westschule_KLD323_ST_2025.pdf erfolgreich verarbeitet.
+Pestalozzi.pdf erfolgreich verarbeitet.
+Bierbaum.pdf erfolgreich verarbeitet.
+wehberg.pdf erfolgreich verarbeitet.
+Loesenbach.pdf erfolgreich verarbeitet.
+Ida.pdf erfolgreich verarbeitet.
+Knapper.pdf erfolgreich verarbeitet.
+THR.pdf erfolgreich verarbeitet.
+zepp.pdf erfolgreich verarbeitet.
