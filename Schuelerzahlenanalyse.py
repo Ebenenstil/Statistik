@@ -1,12 +1,10 @@
 import os
 import PyPDF2
 import re
-import json
 import datetime
 
 
-input_folder = "/Users/davidknospe/Documents/SCHULEN"
-fertig = "/Users/davidknospe/Documents/SCHULEN/output/Fertig"
+input_folder = "/Users/davidknospe/Documents/Statistik/SCHULEN"
 ergebnis_folder = "/Users/davidknospe/Documents/Statistik"
 
 
@@ -61,12 +59,6 @@ def aggregate_schueler_data(schueler_analyse):
     return [[k0, k1, v[0], v[1]] for (k0, k1), v in aggregated.items()]
 
 
-def save_aggregated_data_to_json(aggregated_data, json_file_path):
-    with open(json_file_path, 'w', encoding='utf-8') as json_file:
-        json.dump(aggregated_data, json_file, indent=4, ensure_ascii=False)
-    print(f"Aggregierte Daten gespeichert: {json_file_path}")
-
-
 def append_to_ergebnis(name, aggregated_data, txt_path):
     with open(txt_path, 'a', encoding='utf-8') as f:
         f.write(f"--- {name} ---\n")
@@ -94,7 +86,6 @@ def process_pdfs_in_folder(folder_path):
                     schueler_analyse = extract_schueler_analyse(matrix)
                     aggregated_data = aggregate_schueler_data(schueler_analyse)
                     name = os.path.splitext(filename)[0]
-                    save_aggregated_data_to_json(aggregated_data, os.path.join(fertig, f"{name}_Gesamtzahl.json"))
                     append_to_ergebnis(name, aggregated_data, txt_path)
                     log(f"{filename} erfolgreich verarbeitet.")
                 except Exception as e:
