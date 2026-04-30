@@ -1,10 +1,14 @@
 import os
+import sys
 import PyPDF2
 import re
 import datetime
 
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+if getattr(sys, 'frozen', False):
+    BASE_DIR = os.path.dirname(sys.executable)
+else:
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 input_folder = os.path.join(BASE_DIR, "SCHULEN")
 ergebnis_folder = BASE_DIR
 LOG_PATH = os.path.join(BASE_DIR, "prozess_log.txt")
@@ -120,3 +124,4 @@ def process_pdfs_in_folder(folder_path):
 
 if __name__ == "__main__":
     process_pdfs_in_folder(input_folder)
+    input("\nDrücke Enter zum Beenden...")
