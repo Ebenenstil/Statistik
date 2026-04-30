@@ -76,24 +76,32 @@ def process_pdfs_in_folder(folder_path):
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     txt_path = os.path.join(ergebnis_folder, f"Ergebnis_{timestamp}.txt")
     count = 0
+    fehler = []
 
     for dirpath, _, filenames in os.walk(folder_path):
         for filename in filenames:
             if filename.endswith('.pdf'):
                 pdf_path = os.path.join(dirpath, filename)
                 print(f"Verarbeite PDF: {pdf_path}")
+                name = os.path.splitext(filename)[0]
                 try:
                     matrix = pdf_to_matrix(pdf_path)
                     schueler_analyse = extract_schueler_analyse(matrix)
                     aggregated_data = aggregate_schueler_data(schueler_analyse)
-                    name = os.path.splitext(filename)[0]
+                    if not aggregated_data:
+                        fehler.append(name)
+                        log(f"{filename}: keine Schülerzahlen gefunden.")
+                        continue
                     append_to_ergebnis(name, aggregated_data, txt_path)
                     log(f"{filename} erfolgreich verarbeitet.")
                     count += 1
                 except Exception as e:
+                    fehler.append(name)
                     log(f"Fehler beim Verarbeiten von {filename}: {e}")
 
     with open(txt_path, 'a', encoding='utf-8') as f:
+        if fehler:
+            f.write(f"Fehler bei Schule: {', '.join(fehler)}\n")
         f.write(f"Eingelesene Schulen: {count}\n")
 
 
