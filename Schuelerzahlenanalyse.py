@@ -2,10 +2,12 @@ import os
 import PyPDF2
 import re
 import json
+import datetime
 
 
 input_folder = "/Users/davidknospe/Documents/SCHULEN"
 fertig = "/Users/davidknospe/Documents/SCHULEN/output/Fertig"
+ergebnis_folder = "/Users/davidknospe/Documents/Statistik"
 
 
 def pdf_to_matrix(pdf_path):
@@ -65,12 +67,23 @@ def save_aggregated_data_to_json(aggregated_data, json_file_path):
     print(f"Aggregierte Daten gespeichert: {json_file_path}")
 
 
+def append_to_ergebnis(name, aggregated_data, txt_path):
+    with open(txt_path, 'a', encoding='utf-8') as f:
+        f.write(f"--- {name} ---\n")
+        for row in aggregated_data:
+            f.write(f"  Jahrgang: {row[0]}  |  Klasse: {row[1]}  |  Gesamt: {row[2]}  |  Weiblich: {row[3]}\n")
+        f.write("\n")
+
+
 def log(message):
     with open("prozess_log.txt", 'a', encoding='utf-8') as log_file:
         log_file.write(message + '\n')
 
 
 def process_pdfs_in_folder(folder_path):
+    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    txt_path = os.path.join(ergebnis_folder, f"Ergebnis_{timestamp}.txt")
+
     for dirpath, _, filenames in os.walk(folder_path):
         for filename in filenames:
             if filename.endswith('.pdf'):
@@ -82,6 +95,7 @@ def process_pdfs_in_folder(folder_path):
                     aggregated_data = aggregate_schueler_data(schueler_analyse)
                     name = os.path.splitext(filename)[0]
                     save_aggregated_data_to_json(aggregated_data, os.path.join(fertig, f"{name}_Gesamtzahl.json"))
+                    append_to_ergebnis(name, aggregated_data, txt_path)
                     log(f"{filename} erfolgreich verarbeitet.")
                 except Exception as e:
                     log(f"Fehler beim Verarbeiten von {filename}: {e}")
