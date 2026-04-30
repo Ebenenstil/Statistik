@@ -75,6 +75,7 @@ def log(message):
 def process_pdfs_in_folder(folder_path):
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     txt_path = os.path.join(ergebnis_folder, f"Ergebnis_{timestamp}.txt")
+    count = 0
 
     for dirpath, _, filenames in os.walk(folder_path):
         for filename in filenames:
@@ -88,8 +89,12 @@ def process_pdfs_in_folder(folder_path):
                     name = os.path.splitext(filename)[0]
                     append_to_ergebnis(name, aggregated_data, txt_path)
                     log(f"{filename} erfolgreich verarbeitet.")
+                    count += 1
                 except Exception as e:
                     log(f"Fehler beim Verarbeiten von {filename}: {e}")
+
+    with open(txt_path, 'a', encoding='utf-8') as f:
+        f.write(f"Eingelesene Schulen: {count}\n")
 
 
 if __name__ == "__main__":
