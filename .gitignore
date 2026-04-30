@@ -3,3 +3,5 @@
 *.pdf
 __pycache__/
 .vscode/
+Ergebnis_*.txt
+prozess_log.txt

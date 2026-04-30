@@ -4,16 +4,18 @@ import re
 import datetime
 
 
-input_folder = "/Users/davidknospe/Documents/Statistik/SCHULEN"
-ergebnis_folder = "/Users/davidknospe/Documents/Statistik"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+input_folder = os.path.join(BASE_DIR, "SCHULEN")
+ergebnis_folder = BASE_DIR
+LOG_PATH = os.path.join(BASE_DIR, "prozess_log.txt")
 
 
 def pdf_to_matrix(pdf_path):
     with open(pdf_path, 'rb') as file:
         reader = PyPDF2.PdfReader(file)
-        all_text = ''
-        for page_num in range(len(reader.pages)):
-            all_text += reader.pages[page_num].extract_text() + '\n'
+        all_text = '\n'.join(
+            (reader.pages[i].extract_text() or '') for i in range(len(reader.pages))
+        )
 
     word_pattern = re.compile(r'\w+')
     return [words for line in all_text.splitlines() if (words := word_pattern.findall(line))]
@@ -23,7 +25,7 @@ def extract_schueler_analyse(matrix):
     schueler_analyse = []
 
     for row_index, row in enumerate(matrix):
-        if row[0] == "Adr" and row_index + 2 < len(matrix):
+        if row and row[0] == "Adr" and row_index + 2 < len(matrix):
             target_row = matrix[row_index + 2]
             next_row = matrix[row_index + 3] if row_index + 3 < len(matrix) else []
 
@@ -68,11 +70,22 @@ def append_to_ergebnis(name, aggregated_data, txt_path):
 
 
 def log(message):
-    with open("prozess_log.txt", 'a', encoding='utf-8') as log_file:
+    with open(LOG_PATH, 'a', encoding='utf-8') as log_file:
         log_file.write(message + '\n')
 
 
 def process_pdfs_in_folder(folder_path):
+    if not os.path.isdir(folder_path):
+        print(f"Eingabeordner nicht gefunden: {folder_path}")
+        log(f"Eingabeordner nicht gefunden: {folder_path}")
+        return
+
+    pdf_files = [f for _, _, files in os.walk(folder_path) for f in files if f.endswith('.pdf')]
+    if not pdf_files:
+        print(f"Keine PDFs gefunden in: {folder_path}")
+        log(f"Keine PDFs gefunden in: {folder_path}")
+        return
+
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     txt_path = os.path.join(ergebnis_folder, f"Ergebnis_{timestamp}.txt")
     count = 0
